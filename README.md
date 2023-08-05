@@ -1,3 +1,4 @@
+
 # Flanker-Experiment-Analysis
 
 ## Overview
@@ -7,6 +8,7 @@ This project analyzes reaction times in a neuroscience/psychology flanker experi
 - Exploring and visualizing the distribution of reaction times for different flanker conditions.
 - Conducting statistical tests (t-test) to compare mean reaction times between conditions.
 - Interactive visualizations for easy data exploration.
+- Download and run the Jupyter Notebook locally to experience the full interactivity of the plots.
 
 
 
