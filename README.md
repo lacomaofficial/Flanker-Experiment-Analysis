@@ -10,6 +10,7 @@ This project analyzes reaction times in a neuroscience/psychology flanker experi
 - Interactive visualizations for easy data exploration.
 - Download and run the Jupyter Notebook locally to experience the full interactivity of the plots.
 
+![newplot](https://github.com/lacomaofficial/Flanker-Experiment-Analysis/assets/132283879/360ea8a5-c1ad-4aa4-a53d-6c3bc7046b11)
 
 
 Enjoy exploring the fascinating world of cognitive psychology with this Flanker Experiment Analysis!
